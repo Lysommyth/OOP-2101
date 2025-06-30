@@ -1,5 +1,7 @@
+package challange4;
+
 import  java.util.Scanner;
-public class CHOICES {
+public class IMPORTS {
     public  static void main(String[]args){
         Scanner input=new Scanner(System.in);
         System.out.print("Enter a Number:");

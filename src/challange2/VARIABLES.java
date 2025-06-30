@@ -1,3 +1,5 @@
+package challange2;
+
 public class VARIABLES {
     void ShowStudentdetails(){
         String name;

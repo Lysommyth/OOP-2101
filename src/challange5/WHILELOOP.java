@@ -1,3 +1,5 @@
+package challange5;
+
 import java.util.Scanner;
 public class WHILELOOP {
     public static void main(String[] args) {
